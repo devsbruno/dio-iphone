@@ -23,7 +23,7 @@ The project is organized as follows:
 ## How to Run
 
 1. Make sure you have Java 11 or higher installed on your system.
-2. Clone the repository: `git clone https://github.com/your-username/dio-iphone.git`
+2. Clone the repository: `git clone https://github.com/devsbruno/dio-iphone.git`
 3. Navigate to the project directory: `cd dio-iphone`
 4. Compile and run the project: `javac *.java && java Main`
 
